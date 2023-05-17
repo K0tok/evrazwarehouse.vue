@@ -1,6 +1,6 @@
 <template>
   <app>
-    123
+    123 кирюша хороший
   </app>
 </template>
 
