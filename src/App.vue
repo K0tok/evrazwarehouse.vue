@@ -1,6 +1,6 @@
 <template>
-  <app>ав
-    123 кирюша хороший!
+  <app>
+    <div>kiruha luzer</div>
   </app>
 </template>
 
