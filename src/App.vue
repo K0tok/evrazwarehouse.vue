@@ -15,5 +15,7 @@ export default {
 </script>
 
 <style>
-
+#div {
+  display: flex;
+}
 </style>
