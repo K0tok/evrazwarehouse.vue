@@ -1,5 +1,5 @@
 <template>
-  <app>
+  <app>ав
     123 кирюша хороший!
   </app>
 </template>
