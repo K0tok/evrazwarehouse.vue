@@ -1,6 +1,6 @@
 <template>
   <app>
-    <div>kiruha luzer</div>
+    <div>kiruha</div>
   </app>
 </template>
 
