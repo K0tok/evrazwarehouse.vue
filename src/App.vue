@@ -1,6 +1,6 @@
 <template>
   <app>
-    <div>kiruha</div>
+    
   </app>
 </template>
 
@@ -15,7 +15,5 @@ export default {
 </script>
 
 <style>
-#div {
-  display: flex;
-}
+
 </style>
